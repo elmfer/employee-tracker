@@ -25,6 +25,7 @@
   "homepage": "https://github.com/elmfer/employee-tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "mysql2": "^3.6.2"
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
   }
 }
