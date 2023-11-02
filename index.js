@@ -1,1 +1,3 @@
-console.log("Hello World!");
+const database = require('./config/connection')
+
+database.sync( { force: true } );

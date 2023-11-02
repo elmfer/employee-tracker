@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Painter",
+    "department_id": 1
+  },
+  {
+    "title": "Sander",
+    "department_id": 1
+  },
+  {
+    "title": "Former",
+    "department_id": 2
+  },
+  {
+    "title": "Sander",
+    "department_id": 3
+  },
+  {
+    "title": "Polisher",
+    "department_id": 3
+  },
+  {
+    "title": "Mover",
+    "department_id": 4
+  },
+  {
+    "title": "Inspector",
+    "department_id": 4
+  },
+  {
+    "title": "CEO",
+    "department_id": 5
+  },
+  {
+    "title": "Secretary",
+    "department_id": 5
+  },
+  {
+    "title": "Accountant",
+    "department_id": 4
+  }
+]
