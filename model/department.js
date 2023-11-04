@@ -3,6 +3,7 @@ const sequelize = require('../config/connection');
 
 class Department extends Model {};
 
+// Department model
 Department.init(
   {
     id: {
